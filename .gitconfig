@@ -1,0 +1,9 @@
+[user]
+	name = "Thomas Thimm"
+	email = th.thimm@web.de
+[color]
+	ui = auto
+[pack]
+	threads = 0
+[log]
+	date = local
